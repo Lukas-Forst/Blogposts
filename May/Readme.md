@@ -2,21 +2,22 @@
 This repository contains the rendered document and code files for a survey report that includes a captivating radar chart visualization. 
 The report showcases satisfaction levels across various categories using Python-docx-template and plotly.
 
-Contents
+### Contents
 survey_template.docx: The template that gets rendered by survey_code.py
 Survey_Report.docx: The rendered Word document with the survey report, including the radar chart image.
 survey_code.py: The Python code used to generate the fictional survey dataset and create the radar chart using Python-docx-template and plotly.
 radar_chart.png: The image file of the radar chart generated from the survey data.
-Usage
-Clone the repository: git clone [repo](https://github.com/Lukas-Forst/Blogposts/new/main/May.git)
+
+### Usage
+
 Open the Survey_Report.docx document to view the final survey report with the radar chart.
 Refer to the survey_code.py file for the code used to generate the fictional survey dataset and create the radar chart.
 The radar_chart.png file can be used separately or embedded in other documents as needed.
 Requirements
-Python 3.x
-Python libraries: Python-docx-template, plotly
+- Python 3.x
+- Python libraries: Python-docx-template, plotly
 
-Accompanying blog post
+Accompanying [blog post](https://medium.com/@lukas.forst/harnessing-pythons-potential-creating-engaging-dynamic-charts-and-graphs-for-word-documents-b2e9cf7e355c)
 
 License
 This repository is licensed under the MIT License.
