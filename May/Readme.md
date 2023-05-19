@@ -1,4 +1,4 @@
-Survey Report with Radar Chart
+## Survey Report with Radar Chart
 This repository contains the rendered document and code files for a survey report that includes a captivating radar chart visualization. 
 The report showcases satisfaction levels across various categories using Python-docx-template and plotly.
 
